@@ -1,9 +1,8 @@
-import './App.css';
 
 function App() {
   return (
     <div>
-      viren
+      This is Zomato
     </div>
   );
 }
