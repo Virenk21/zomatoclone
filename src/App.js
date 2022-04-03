@@ -1,8 +1,9 @@
+import Homepage from "./components";
 
 function App() {
   return (
     <div>
-      This is Zomato
+      <Homepage />
     </div>
   );
 }
